@@ -32,9 +32,7 @@ body{
 .btn{
     color:#11999E
 }
-.footer-link{
-    color: #11999E;
-}
+
 
 .pro{
     text-decoration: underline;
@@ -108,7 +106,6 @@ hr{
 a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
     text-decoration: none;
 }
 a:hover{
@@ -127,18 +124,19 @@ a:hover{
     color: #EAF6F6;
     font-size: 0.75rem;
     position: relative;
-    padding: 100px 0;
+    margin: 100px 0;
 
+
+}
+.footer-link{
+    color: #11999E;
+    position: relative;
+    top: 25%;
 }
 .bottom-container{
 
     background-color: #66BFBF;
     height: 200px;
-    bottom: 100px;
-}
-.footer-link{
 
-    position: relative;
-    top:50px;
 }
 
