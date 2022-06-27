@@ -41,6 +41,12 @@ body{
 .buttom-cloud{
 
 }
+.skill-row{
+    margin:  100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+}
 .top-cloud{
     position: absolute;
     right: 300px;
